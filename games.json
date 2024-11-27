@@ -2,31 +2,37 @@
 	{
 		"name":"Sniper",
 		"autor":"thatroastedpotato",
-		"N":"1"
+		"N":"1",
+		"ico":"ico.svg"
 	},
 	{
 		"name":"Test",
 		"autor":"eenot",
-		"N":"2"
+		"N":"2",
+		"ico":"ico.svg"
 	},
 	{
 		"name":"Test2",
 		"autor":"eenot",
-		"N":"3"
+		"N":"3",
+		"ico":"ico.svg"
 	},
 	{
 		"name":"Test2",
 		"autor":"eenot",
-		"N":"3"
+		"N":"3",
+		"ico":"ico.svg"
 	},
 	{
 		"name":"Test2",
 		"autor":"eenot",
-		"N":"3"
+		"N":"3",
+		"ico":"ico.svg"
 	},
 	{
 		"name":"Test2",
 		"autor":"eenot",
-		"N":"3"
+		"N":"3",
+		"ico":"ico.svg"
 	}
 ]
